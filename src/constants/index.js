@@ -97,9 +97,9 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Myntra Clone',
-        description: 'A frontend replica of Myntra websites focusing on her interfaces design visual presentation of fashion items',
-        link: 'https://github.com/AyushVinayMaurya/Myntra/tree/main/Myntra%20clone',
+        name: 'Home Decor',
+        description: 'I have developed an eCommerce platform dedicated to home decor, named RadiantHomes .The website is built using HTML, CSS, and JavaScript, ensuring a responsive and user-friendly experience.',
+        link: 'https://home-decor-bay.vercel.app/',
     },
   
 ];
