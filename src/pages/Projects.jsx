@@ -14,9 +14,7 @@ const Projects = () => {
       </h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          I have developed a Myntra clone website as a project for my
-          entry-level frontend development portfolio. I have added featuring a
-          wide range of a fashion products and intuitive navigation.
+           I've worked on a variety of projects over the years, but these are the ones that truly resonate with me. Several of them are open-source, so if something catches your eye, you're more than welcome to dive into the code and share your thoughts or improvements. I always appreciate fresh ideas and collaboration!
         </p>
       </div>
 
